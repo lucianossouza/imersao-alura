@@ -22,3 +22,4 @@ function pesquisar() {
   // Atribui o HTML construído à seção de resultados
   section.innerHTML = resultados;
 }
+console.log("Teste")
