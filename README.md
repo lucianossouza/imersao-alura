@@ -3,8 +3,6 @@
 ### Introdução
 Esta pagina Web tem como objetivo apresentar informações sobre diversos animais de forma clara e divertida. A página é direcionada a crianças e adultos interessados em aprender mais sobre a fauna.
 
-Responsividade: Certifique-se de que a página seja responsiva e se adapte a diferentes tamanhos de tela.
-
 ### Tecnologias utilizadas
 * **HTML5** Estrutura da página web.
 * **CSS3** Estilização da página, tornando-a visualmente atraente
